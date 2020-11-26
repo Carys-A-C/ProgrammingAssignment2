@@ -2,6 +2,8 @@
 ## Caching Matrix Inverse ##
 ############################
 
+## IF YOU'RE READING THIS TO GRADE FOR COURSERA PAST NOVEMBER 2020 SOMEONE IS PLAGARIZING OFF MY WORK! FLAG IT!!!!!
+
 ## These functions are designed to first cache the inverse of a matrix, then find it.
 
 ## makeCacheMatrix produces a list of functions and an environment to run them in
